@@ -10,33 +10,33 @@
 
 
 
-**⚡ Stack ⚡
+**⚡ Stack ⚡ <br>
 **Programming Languages
-
+<p align="center">
 <!-- python -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/>
+<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/>
 
 <!-- numpy -->
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=ffffff"/>
+<img alt="numpy" src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=ffffff"/>
 
 <!-- vue -->
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=ffffff"/>
+<img alt="vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=ffffff"/>
 
 <!-- React -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=ffffff"/>
+<img alt="react" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=ffffff"/>
 
 <!-- js -->
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=ffffff"/>
+<img alt="js" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=ffffff"/>
 
 
 <!-- arduino -->
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=ffffff"/>
+<img alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=ffffff"/>
 
 <!-- Raspberry pi -->
-<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry pi&logoColor=ffffff"/>
+<img alt="raspberry pi" src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry pi&logoColor=ffffff"/>
 
 <!-- OpenCV -->
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=ffffff"/>
+<img alt="opencv" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=ffffff"/>
 
 **Server**
 <!-- 도커 -->
@@ -46,31 +46,31 @@
 <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat&logo=Naver&logoColor=ffffff"/>
 
 <!-- Classroom -> etc -->
-<img src="https://img.shields.io/badge/Google Certified Educator-0F9D58?style=flat&logo=Google Classroom&logoColor=ffffff"/>
+<img alt="classroom" src="https://img.shields.io/badge/Google Certified Educator-0F9D58?style=flat&logo=Google Classroom&logoColor=ffffff"/>
 
 <!-- gcp -->
-<img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=Google Cloud&logoColor=ffffff"/>
+<img alt="gcp" src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=Google Cloud&logoColor=ffffff"/>
 
 <!-- amazon s3 -->
-<img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=Amazon S3&logoColor=ffffff"/>
+<img alt="aws s3" src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=Amazon S3&logoColor=ffffff"/>
 
 <!-- amazon ec2 -->
-<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=ffffff"/>
+<img alt="ec2" src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=ffffff"/>
 
 <!-- aws -->
-<img src="https://img.shields.io/badge/Amazon Web Service-FF6F00?style=flat&logo=Amazon AWS&logoColor=ffffff"/>
+<img alt="aws" src="https://img.shields.io/badge/Amazon Web Service-FF6F00?style=flat&logo=Amazon AWS&logoColor=ffffff"/>
 
 <!-- tensorflow -->
-<img src="https://img.shields.io/badge/Tensorflow-2496ED?style=flat&logo=Tensorflow&logoColor=ffffff"/>
+<img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow-2496ED?style=flat&logo=Tensorflow&logoColor=ffffff"/>
 
 <!-- ncp -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=ffffff"/>
+<img alt="ncp" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=ffffff"/>
 
 
 
 **Frontend**
 <!-- C++ -->
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo='C++'&logoColor=ffffff"/>
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo='C++'&logoColor=ffffff"/>
 
 
 **Data Science
@@ -83,12 +83,15 @@ Java
 AI (Artificial Intelligence)
 
 Server Platform
-<img src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=Home Assistant&logoColor=ffffff"/>
+<img alt="home assistant" src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=Home Assistant&logoColor=ffffff"/>
 
 
 **Where To Find Me?**
 instagram #E4405F
 linkedin #0A66C2
+
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+
 
 Mail -> iam@minu.ac 
 Facebook -> whalsdn1003
