@@ -5,14 +5,32 @@
 
 Stack
 Programming Languages
-#3776AB python
-Javascript #F7DF1E
-React #61DAFB
-vue #4FC08D
-numpy #013243
-OpenCV #5C3EE8
-raspberry pi #A22846
-arduino #00979D
+
+<!-- python -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Python&logoColor=3776AB"/>
+
+<!-- numpy -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=numpy&logoColor=013243"/>
+
+<!-- vue -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Vue&logoColor=4FC08D"/>
+
+<!-- React -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=React&logoColor=61DAFB"/>
+
+<!-- js -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Javascript&logoColor=F7DF1E"/>
+
+
+<!-- arduino -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Arduino&logoColor=00979D"/>
+
+<!-- Raspberry pi -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Raspberry pi&logoColor=A22846"/>
+
+<!-- OpenCV -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=OpenCV&logoColor=5C3EE8"/>
+
 
 <!-- 도커 -->
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Docker&logoColor=2496ED"/>
