@@ -119,6 +119,12 @@ github page -> prepare
   
 </details>
 
+<details>
+  <summary>Click for waka stat</summary>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+</details>
+
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://cocoon1787.tistory.com/)
 
 README language <br>
