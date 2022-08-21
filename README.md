@@ -1,9 +1,9 @@
 ### Hi there 👋
-
+<div align="center">
 <!-- hits -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDev-minu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-minu&show_icons=true&theme=radical)  
+![MINU's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-minu&show_icons=true&theme=radical)  
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Minu)](https://solved.ac/whalsdn1003/)
@@ -12,7 +12,7 @@
 
 **⚡ Stack ⚡ <br>
 **Programming Languages
-<p align="center">
+
 <!-- python -->
 <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/>
   
@@ -21,33 +21,39 @@
   
 <!-- js -->
 <img alt="js" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=ffffff"/>
-  
+
+java
+
 front end
-  
-  <p align="center">
-<!-- numpy -->
-<img alt="numpy" src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=ffffff"/>
-
-<!-- vue -->
-<img alt="vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=ffffff"/>
-
 <!-- React -->
 <img alt="react" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=ffffff"/>
-
-
-
-
-<!-- arduino -->
-<img alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=ffffff"/>
-
-<!-- Raspberry pi -->
-<img alt="raspberry pi" src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry pi&logoColor=ffffff"/>
+  
+<!-- vue -->
+<img alt="vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=ffffff"/>
+  
+  
+  
+Data Science
+<!-- numpy -->
+<img alt="numpy" src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=ffffff"/>
 
 <!-- OpenCV -->
 <img alt="opencv" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=ffffff"/>
 
+Matplotlib
+
+
+Hardware
+<!-- Raspberry pi -->
+<img alt="raspberry pi" src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry pi&logoColor=ffffff"/>
+
+<!-- arduino -->
+<img alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=ffffff"/>
+
+
+
 **Server**
-<!-- 도커 -->
+<!-- docker -->
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=ffffff"/>
 
 <!-- ncp -->
@@ -56,6 +62,20 @@ front end
 <!-- Classroom -> etc -->
 <img alt="classroom" src="https://img.shields.io/badge/Google Certified Educator-0F9D58?style=flat&logo=Google Classroom&logoColor=ffffff"/>
 
+
+**Data Science
+**Matplotlib
+Java
+
+
+**Hardware**
+
+AI (Artificial Intelligence)
+<!-- tensorflow -->
+<img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow-2496ED?style=flat&logo=Tensorflow&logoColor=ffffff"/>
+
+
+Server Platform
 <!-- gcp -->
 <img alt="gcp" src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=Google Cloud&logoColor=ffffff"/>
 
@@ -68,32 +88,14 @@ front end
 <!-- aws -->
 <img alt="aws" src="https://img.shields.io/badge/Amazon Web Service-FF6F00?style=flat&logo=Amazon AWS&logoColor=ffffff"/>
 
-<!-- tensorflow -->
-<img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow-2496ED?style=flat&logo=Tensorflow&logoColor=ffffff"/>
-
 <!-- ncp -->
 <img alt="ncp" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=ffffff"/>
 
-
-
-**Frontend**
-
-
-
-**Data Science
-**Matplotlib
-Java
-
-
-**Hardware**
-
-AI (Artificial Intelligence)
-
-Server Platform
+etc..
 <img alt="home assistant" src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=Home Assistant&logoColor=ffffff"/>
 
 
-**Where To Find Me?**
+**Where To Find Me?** <br>
 instagram #E4405F
 linkedin #0A66C2
 
@@ -126,3 +128,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
