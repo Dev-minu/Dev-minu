@@ -110,7 +110,7 @@ github page -> prepare
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://cocoon1787.tistory.com/)
 
 Read ME language
-ko / jp
+[ko] (markdown ko version add) / [jp] (
 
 <!--
 **Dev-minu/Dev-minu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
