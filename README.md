@@ -84,12 +84,13 @@ etc.. <br>
 <img alt="home assistant" src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=Home Assistant&logoColor=ffffff"/>
 <!-- Classroom -->
 <img alt="classroom" src="https://img.shields.io/badge/Google Certified Educator-0F9D58?style=flat&logo=Google Classroom&logoColor=ffffff"/>
-  
-  
-<div style="text-align: left"> 왼쪽 
-## Where To Find Me? <br>
+ 
 </div>
+    
+## Where To Find Me? <br>
 
+<div align="center">
+  
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" /></a>
@@ -99,7 +100,7 @@ etc.. <br>
 <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white" /></a>
 <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
   
-
+</center>
 
 
 Mail -> iam@minu.ac 
@@ -112,7 +113,7 @@ github page -> prepare
 <!-- 3d stat -->
   ![](./profile-3d-contrib/profile-green-animate.svg)
   
-</div>
+
   
 <details>
   <summary>Click for Stat</summary>
