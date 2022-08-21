@@ -82,7 +82,6 @@ Server Platform
 
 etc.. <br>
 <img alt="home assistant" src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=Home Assistant&logoColor=ffffff"/>
-<!-- Classroom -->
 <img alt="classroom" src="https://img.shields.io/badge/Google Certified Educator-0F9D58?style=flat&logo=Google Classroom&logoColor=ffffff"/>
  
 </div>
