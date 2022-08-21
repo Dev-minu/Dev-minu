@@ -1,12 +1,9 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-
+# Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+<br>
+My name is 
 
 <div align="center">
   
-
-
-
-
 
 
 ## ⚡ Stack <br>
@@ -94,11 +91,6 @@ etc.. <br>
 <!-- Classroom -> etc -->
 <img alt="classroom" src="https://img.shields.io/badge/Google Certified Educator-0F9D58?style=flat&logo=Google Classroom&logoColor=ffffff"/>
   
-## stat
-
-![MINU's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-minu&show_icons=true&theme=radical)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Minu)](https://solved.ac/whalsdn1003/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   
 ## Where To Find Me? <br>
@@ -115,6 +107,16 @@ Discord -> 하엘#9359
 
 github page -> prepare
 
+<details>
+  <summary>Click for Stat</summary>
+## stat
+
+![MINU's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-minu&show_icons=true&theme=radical)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Minu)](https://solved.ac/whalsdn1003/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </details>
+
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://cocoon1787.tistory.com/)
 
 Read ME language
@@ -122,6 +124,7 @@ Read ME language
   
 <!-- hits -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDev-minu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com/)
+
 </div>
 
 Last update 22/08/21
