@@ -135,8 +135,6 @@ github page -> prepare
 <!--END_SECTION:waka-->
 </details>
 
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://cocoon1787.tistory.com/)
-
 README language <br>
 [ko](https://github.com/Dev-minu/Dev-minu/blob/main/lang/README_kr.md) / [jp](https://github.com/Dev-minu/Dev-minu/blob/main/lang/README_jp.md)
   
