@@ -13,14 +13,37 @@ numpy #013243
 OpenCV #5C3EE8
 raspberry pi #A22846
 arduino #00979D
-tensorflow #FF6F00
-aws #232F3E
-amazon ec2 #FF9900
-amazon s3 #569A31
-Google Cloud #4285F4
-classroom #0F9D58
-naver #03C75A (cloud)
-docker #2496ED
+
+<!-- 도커 -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Docker&logoColor=2496ED"/>
+
+<!-- ncp -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Naver&logoColor=03C75A"/>
+
+<!-- Classroom -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Google Classroom&logoColor=0F9D58"/>
+
+<!-- gcp -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Google Cloud&logoColor=4285F4"/>
+
+<!-- amazon s3 -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Amazon S3&logoColor=569A31"/>
+
+<!-- amazon ec2 -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Amazon EC2&logoColor=FF9900"/>
+
+<!-- aws -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Amazon AWS&logoColor=FF6F00"/>
+
+<!-- tensorflow -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Tensorflow&logoColor=2496ED"/>
+
+<!-- ncp -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Docker&logoColor=2496ED"/>
+
+<!-- ncp -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Docker&logoColor=2496ED"/>
+
 
 Frontend
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=C++&logoColor=00599C"/>
