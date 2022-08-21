@@ -10,87 +10,92 @@
 
 
 
-Stack
-Programming Languages
+**⚡ Stack ⚡
+**Programming Languages
 
 <!-- python -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/>
 
 <!-- numpy -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=numpy&logoColor=013243"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=ffffff"/>
 
 <!-- vue -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Vue.js&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=ffffff"/>
 
 <!-- React -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=React&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=ffffff"/>
 
 <!-- js -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=ffffff"/>
 
 
 <!-- arduino -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Arduino&logoColor=00979D"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=ffffff"/>
 
 <!-- Raspberry pi -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Raspberry pi&logoColor=A22846"/>
+<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry pi&logoColor=ffffff"/>
 
 <!-- OpenCV -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=OpenCV&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=ffffff"/>
 
-
+**Server**
 <!-- 도커 -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=ffffff"/>
 
 <!-- ncp -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Naver&logoColor=03C75A"/>
+<img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat&logo=Naver&logoColor=ffffff"/>
 
-<!-- Classroom -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Google Classroom&logoColor=0F9D58"/>
+<!-- Classroom -> etc -->
+<img src="https://img.shields.io/badge/Google Certified Educator-0F9D58?style=flat&logo=Google Classroom&logoColor=ffffff"/>
 
 <!-- gcp -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Google Cloud&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=Google Cloud&logoColor=ffffff"/>
 
 <!-- amazon s3 -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Amazon S3&logoColor=569A31"/>
+<img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=Amazon S3&logoColor=ffffff"/>
 
 <!-- amazon ec2 -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Amazon EC2&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=ffffff"/>
 
 <!-- aws -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Amazon AWS&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Amazon Web Service-FF6F00?style=flat&logo=Amazon AWS&logoColor=ffffff"/>
 
 <!-- tensorflow -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Tensorflow&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Tensorflow-2496ED?style=flat&logo=Tensorflow&logoColor=ffffff"/>
 
 <!-- ncp -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Docker&logoColor=2496ED"/>
-
-<!-- ncp -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=ffffff"/>
 
 
-Frontend
+
+**Frontend**
 <!-- C++ -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo='C++'&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo='C++'&logoColor=ffffff"/>
 
 
-Data Science
-Matplotlib
+**Data Science
+**Matplotlib
 Java
 
 
-Hardware
+**Hardware**
 
 AI (Artificial Intelligence)
 
 Server Platform
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Home Assistant&logoColor=41BDF5"/>
+<img src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=Home Assistant&logoColor=ffffff"/>
 
 
-Where To Find Me?
+**Where To Find Me?**
 instagram #E4405F
 linkedin #0A66C2
+
+Mail -> iam@minu.ac 
+Facebook -> whalsdn1003
+Telegram -> @minu_cho
+Discord -> 하엘#9359
+
+github page -> prepare
 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://cocoon1787.tistory.com/)
 
