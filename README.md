@@ -15,7 +15,16 @@
 <p align="center">
 <!-- python -->
 <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/>
-
+  
+<!-- C++ -->
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo='C++'&logoColor=ffffff"/>
+  
+<!-- js -->
+<img alt="js" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=ffffff"/>
+  
+front end
+  
+  <p align="center">
 <!-- numpy -->
 <img alt="numpy" src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=ffffff"/>
 
@@ -25,8 +34,7 @@
 <!-- React -->
 <img alt="react" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=ffffff"/>
 
-<!-- js -->
-<img alt="js" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=ffffff"/>
+
 
 
 <!-- arduino -->
@@ -69,8 +77,7 @@
 
 
 **Frontend**
-<!-- C++ -->
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo='C++'&logoColor=ffffff"/>
+
 
 
 **Data Science
