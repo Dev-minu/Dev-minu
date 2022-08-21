@@ -2,12 +2,13 @@
 <br>
 My name is 
 
-<div align="center">
   
 
 
 ## ⚡ Stack <br>
-**Programming Languages
+<div align="center">
+  
+Programming Languages 
 
 <!-- python -->
 <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/>
@@ -18,8 +19,7 @@ My name is
 <!-- js -->
 <img alt="js" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=ffffff"/>
 
-java
-
+  
 front end
 <!-- React -->
 <img alt="react" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=ffffff"/>
@@ -35,8 +35,9 @@ Data Science
 
 <!-- OpenCV -->
 <img alt="opencv" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=ffffff"/>
-
-Matplotlib
+  
+<!-- Matplotlib -->
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=Python&logoColor=ffffff"/>
 
 
 Hardware
@@ -54,13 +55,6 @@ Hardware
 
 <!-- ncp -->
 <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat&logo=Naver&logoColor=ffffff"/>
-
-
-
-
-**Data Science
-**Matplotlib
-Java
 
 
 **Hardware**
@@ -118,22 +112,20 @@ github page -> prepare
   
 <details>
   <summary>Click for Stat</summary>
-## stat
 
 ![MINU's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-minu&show_icons=true&theme=radical)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Minu)](https://solved.ac/whalsdn1003/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-  </details>
+</details>
 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://cocoon1787.tistory.com/)
 
-Read ME language
-[ko] (markdown ko version add) / [jp] (
+README language <br>
+[ko](https://github.com/Dev-minu/Dev-minu/blob/main/lang/README_kr.md) / [jp](https://github.com/Dev-minu/Dev-minu/blob/main/lang/README_jp.md)
   
 <!-- hits -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDev-minu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com/)
-
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dev-minu)
 
 Last update 22/08/21
