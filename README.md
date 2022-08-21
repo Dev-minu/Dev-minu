@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 <br>
-My name is 
+My name is Minwoo 
 
   
 
