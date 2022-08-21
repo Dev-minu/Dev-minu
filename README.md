@@ -88,25 +88,34 @@ Server Platform
 
 etc.. <br>
 <img alt="home assistant" src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=Home Assistant&logoColor=ffffff"/>
-<!-- Classroom -> etc -->
+<!-- Classroom -->
 <img alt="classroom" src="https://img.shields.io/badge/Google Certified Educator-0F9D58?style=flat&logo=Google Classroom&logoColor=ffffff"/>
   
   
   
 ## Where To Find Me? <br>
-instagram #E4405F
-linkedin #0A66C2
 
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  
+<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Mail-%23EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white" /></a>
+<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
+  
+
 
 
 Mail -> iam@minu.ac 
-Facebook -> whalsdn1003
-Telegram -> @minu_cho
+Facebook -> whalsdn1003 0
+Telegram -> @minu_cho 0
 Discord -> 하엘#9359
 
 github page -> prepare
 
+</div>
+  
 <details>
   <summary>Click for Stat</summary>
 ## stat
@@ -125,6 +134,6 @@ Read ME language
 <!-- hits -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDev-minu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com/)
 
-</div>
+
 
 Last update 22/08/21
