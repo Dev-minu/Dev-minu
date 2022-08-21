@@ -2,18 +2,14 @@
 
 
 <div align="center">
-<!-- hits -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDev-minu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![MINU's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-minu&show_icons=true&theme=radical)  
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Minu)](https://solved.ac/whalsdn1003/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 
 
-**⚡ Stack ⚡ <br>
+
+
+
+## ⚡ Stack <br>
 **Programming Languages
 
 <!-- python -->
@@ -62,8 +58,7 @@ Hardware
 <!-- ncp -->
 <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat&logo=Naver&logoColor=ffffff"/>
 
-<!-- Classroom -> etc -->
-<img alt="classroom" src="https://img.shields.io/badge/Google Certified Educator-0F9D58?style=flat&logo=Google Classroom&logoColor=ffffff"/>
+
 
 
 **Data Science
@@ -94,11 +89,19 @@ Server Platform
 <!-- ncp -->
 <img alt="ncp" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=ffffff"/>
 
-etc..
+etc.. <br>
 <img alt="home assistant" src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=Home Assistant&logoColor=ffffff"/>
+<!-- Classroom -> etc -->
+<img alt="classroom" src="https://img.shields.io/badge/Google Certified Educator-0F9D58?style=flat&logo=Google Classroom&logoColor=ffffff"/>
+  
+## stat
 
-
-**Where To Find Me?** <br>
+![MINU's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-minu&show_icons=true&theme=radical)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Minu)](https://solved.ac/whalsdn1003/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+## Where To Find Me? <br>
 instagram #E4405F
 linkedin #0A66C2
 
@@ -116,21 +119,9 @@ github page -> prepare
 
 Read ME language
 [ko] (markdown ko version add) / [jp] (
-
-<!--
-**Dev-minu/Dev-minu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<!-- hits -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDev-minu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com/)
 </div>
 
 Last update 22/08/21
