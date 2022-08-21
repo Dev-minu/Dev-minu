@@ -15,6 +15,7 @@ Hardware
 AI (Artificial Intelligence)
 
 Server Platform
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Home Assistant&logoColor=41BDF5"/>
 
 
 Where To Find Me?
