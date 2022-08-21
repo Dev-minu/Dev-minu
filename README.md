@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Minu)](https://solved.ac/whalsdn1003/)
 
 
 Stack
@@ -13,7 +13,7 @@ Programming Languages
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=numpy&logoColor=013243"/>
 
 <!-- vue -->
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Vue&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Vue.js&logoColor=4FC08D"/>
 
 <!-- React -->
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=React&logoColor=61DAFB"/>
@@ -64,7 +64,10 @@ Programming Languages
 
 
 Frontend
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=C++&logoColor=00599C"/>
+<!-- C++ -->
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo='C++'&logoColor=00599C"/>
+
+
 Data Science
 Matplotlib
 Java
@@ -83,6 +86,8 @@ instagram #E4405F
 linkedin #0A66C2
 
 
+Read ME language
+ko / jp
 
 <!--
 **Dev-minu/Dev-minu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
