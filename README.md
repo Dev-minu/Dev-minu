@@ -90,13 +90,12 @@ etc.. <br>
 
 <div align="center">
   
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<p><a href="https://github.com/Dev-minu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/thomas-guibert(https://www.linkedin.com/in/minwoo-cho/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://facebook.com/whalsdn1003" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="https:instagram.com/minu__haru" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   
-<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Mail-%23EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white" /></a>
+<a href="mailto:iam@minu.ac" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Mail-%23EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
   
 </center>
@@ -126,8 +125,8 @@ github page -> prepare
 <details>
   <summary>Click for waka stat</summary>
     <!--START_SECTION:waka-->
+  
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
