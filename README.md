@@ -100,12 +100,6 @@ etc.. <br>
   
 </center>
 
-
-Mail -> iam@minu.ac 
-Facebook -> whalsdn1003 0
-Telegram -> @minu_cho 0
-Discord -> 하엘#9359
-
 github page -> prepare
 
 <!-- 3d stat -->
