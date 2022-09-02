@@ -91,12 +91,12 @@ etc.. <br>
 <div align="center">
   
 <p><a href="https://github.com/Dev-minu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/thomas-guibert(https://www.linkedin.com/in/minwoo-cho/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/minwoo-cho/(https://www.linkedin.com/in/minwoo-cho/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://facebook.com/whalsdn1003" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 <a href="https:instagram.com/minu__haru" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   
 <a href="mailto:iam@minu.ac" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Mail-%23EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
+<a href="https://velog.io/@minuac" target="_blank"><img alt="Velog" src="https://img.shields.io/badge/Velog-%2326A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
   
 </center>
 
