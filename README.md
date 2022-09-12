@@ -1,6 +1,4 @@
 # Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-<br>
-My name is Minwoo 
 
   <iframe src="https://codesandbox.io/embed/github-profile-forked-bnohmp?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
