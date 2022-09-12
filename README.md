@@ -2,11 +2,16 @@
 <br>
 My name is Minwoo 
 
-  
+  <iframe src="https://codesandbox.io/embed/github-profile-forked-bnohmp?fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="Github profile (forked)"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
 
 
 ## ⚡ Stack <br>
-<div align="center">
+<div align = "center">
   
 Programming Languages 
 
@@ -164,5 +169,8 @@ README language <br>
 
 etc..
 https://minu.ac
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dev-minu&theme=flat&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 Last update 22/08/23
