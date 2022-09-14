@@ -1,6 +1,5 @@
-<p align="center">
-<img src = "https://github.com/Dev-minu/Dev-minu/blob/main/Hello.gif" alt="Hi, I'm Minu 👋 I'm a A.I. Developer 🚀 I like to try new things 🌟">
-</p>
+alt="Hi, I'm Minu 👋 I'm a A.I. Developer 🚀 I like to try new things 🌟">
+
 
 ## About Me <br>
 
@@ -123,35 +122,8 @@ github page -> prepare
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-🌆 Daytime    16 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.58% 
-🌃 Evening    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
-🌙 Night      52 commits     ██████████████░░░░░░░░░░░   57.14%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 13/09/2022 18:49:04 UTC
+ Last Updated on 14/09/2022 18:49:42 UTC
 <!--END_SECTION:waka-->
 </details>
 
