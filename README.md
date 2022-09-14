@@ -1,3 +1,4 @@
+alt="Hi, I'm Minu 👋 I'm a A.I. Developer 🚀 I like to try new things 🌟">
 
 
 ## About Me <br>
