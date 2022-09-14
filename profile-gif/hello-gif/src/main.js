@@ -3,6 +3,7 @@ import App from "./App.vue";
 import Typewriter from "typewriter-effect/dist/core";
 import GraphemeSplitter from "grapheme-splitter";
 
+
 Vue.config.productionTip = false;
 
 new Vue({
