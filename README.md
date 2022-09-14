@@ -1,5 +1,6 @@
-alt="Hi, I'm Minu 👋 I'm a A.I. Developer 🚀 I like to try new things 🌟">
-
+<p align="center">
+<img src = "https://github.com/Dev-minu/Dev-minu/blob/main/Hello.gif" alt="Hi, I'm Minu 👋 I'm a A.I. Developer 🚀 I like to try new things 🌟">
+</p>
 
 ## About Me <br>
 
