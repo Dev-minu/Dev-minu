@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Dev-minu/Dev-minu/blob/main/Hello-GIFVer/Hello_16.9_GIFVer.gif" alt="Hi, I'm Minu 👋 I'm a A.I. Developer 🚀 I like to try new things 🌟" style= "max-width: 100%; height: auto;">
+<img src= "Hello-GIFVer/Hello_Ver1.gif" alt="Hi, I'm Minu 👋 I'm a A.I. Developer 🚀 I like to try new things 🌟" style= "width: 100%; height: auto;">
 </p>
 
 ## About Me <br>
@@ -92,8 +92,8 @@ Skill
 
 ## Where To Find Me? <br>
 
-<div align="center">
-  
+<center>
+
 <p><a href="https://github.com/Dev-minu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/minwoo-cho/(https://www.linkedin.com/in/minwoo-cho/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://facebook.com/whalsdn1003" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" /></a>
