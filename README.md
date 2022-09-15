@@ -1,5 +1,5 @@
 <p align="center">
-<img src= "Hello-GIFVer/Hello_Ver1.gif" alt="Hi, I'm Minu 👋 I'm a A.I. Developer 🚀 I like to try new things 🌟" style= "width: 100%; height: auto;">
+<img src= "Hello-GIFVer/Hello_Ver1.gif" alt="Hi, I'm Minu 👋 I'm a A.I. Developer 🚀 I like to try new things 🌟" style= "width: 120%; height: auto;">
 </p>
 
 ## About Me <br>
