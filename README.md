@@ -127,8 +127,35 @@ github page -> prepare
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
 
- Last Updated on 14/09/2022 18:49:42 UTC
+```text
+🌞 Morning    8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.92% 
+🌆 Daytime    26 commits     ██████░░░░░░░░░░░░░░░░░░░   25.74% 
+🌃 Evening    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.9% 
+🌙 Night      57 commits     ██████████████░░░░░░░░░░░   56.44%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 15/09/2022 18:49:00 UTC
 <!--END_SECTION:waka-->
 </details>
 
