@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Dev-minu/Dev-minu/blob/main/Hello-GIFVer/Hello_16.9_GIFVer.gif" alt="Hi, I'm Minu 👋 I'm a A.I. Developer 🚀 I like to try new things 🌟"  style="max-width: 100%; height: auto;>
+<img src="https://github.com/Dev-minu/Dev-minu/blob/main/Hello-GIFVer/Hello_16.9_GIFVer.gif" alt="Hi, I'm Minu 👋 I'm a A.I. Developer 🚀 I like to try new things 🌟  style="max-width: 100%; height: auto;>
 </p>
 
 ## About Me <br>
