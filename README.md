@@ -1,4 +1,4 @@
-alt="Hi, I'm Minu 👋 I'm a A.I. Developer 🚀 I like to try new things 🌟">
+<img src="https://github.com/Dev-minu/Dev-minu/blob/main/Hello-GIFVer/Hello_16.9_GIFVer.gif" alt="Hi, I'm Minu 👋 I'm a A.I. Developer 🚀 I like to try new things 🌟">
 
 
 ## About Me <br>
@@ -85,6 +85,10 @@ etc.. <br>
  
 </div>
     
+Skill
+- Google Certified Educator Level 2
+- 
+
 ## Where To Find Me? <br>
 
 <div align="center">
