@@ -125,23 +125,22 @@ github page -> prepare
     <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning        2 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-🌆 Daytime        4 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-🌃 Evening        0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night        102 commits       ███████████████████████░░   94.44 % 
-
+🌞 Morning                15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+🌆 Daytime                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+🌃 Evening                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+🌙 Night                  219 commits         ███████████████████░░░░░░   77.94 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Seoul
+🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -151,11 +150,10 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 
- Last Updated on 21/02/2023 18:37:32 UTC
+ Last Updated on 23/02/2023 18:38:38 UTC
 <!--END_SECTION:waka-->
 </details>
 
