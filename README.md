@@ -123,17 +123,15 @@ github page -> prepare
 <details>
   <summary>Click for waka stat</summary>
     <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-🌆 Daytime                46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+🌞 Morning                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+🌆 Daytime                46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 🌃 Evening                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-🌙 Night                  734 commits         ██████████████████████░░░   88.54 % 
+🌙 Night                  735 commits         ██████████████████████░░░   88.55 % 
 ```
 
 
@@ -153,7 +151,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/07/2024 18:35:40 UTC
+ Last Updated on 24/07/2024 18:40:05 UTC
 <!--END_SECTION:waka-->
 </details>
 
