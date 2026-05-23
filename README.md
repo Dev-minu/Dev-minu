@@ -125,33 +125,8 @@ github page -> prepare
     <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.94%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-🌆 Daytime                49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-🌃 Evening                25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-🌙 Night                  1401 commits        ███████████████████████░░   93.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 22/05/2026 20:16:48 UTC
+ Last Updated on 23/05/2026 19:42:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
