@@ -28,4 +28,4 @@ I am majoring in **Radiological Science**, passionate about bridging the gap bet
 ---
 
 ## 📫 Contact Me
-- 📧 **Email:** iam@minu.ac (mailto:iam@minu.ac)
+- 📧 **Email:** iam@minu.ac / minu@youthnaroo.or.kr
